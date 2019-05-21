@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+//pdifnd'ovinsdv'invsS
 import { withFirebase } from "../Firebase";
 
 class AdminPage extends Component {
